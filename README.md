@@ -8,4 +8,4 @@ My name is **Igor** and this is my ✨ _special_ ✨ repository where I will mee
 - I'm using Gnu / Linux from 2005, so almost 17 years.
 - 🍕 Love Pizza <a class="suppoprt-me" href="https://www.buymeacoffee.com/igavelyuk" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&nbsp&emoji=&slug=igavel&button_colour=8d7b19&font_colour=fafa8f&font_family=Cookie&outline_colour=acff37&coffee_colour=567d71"></a>
 - Living in Odessa, Ukraine 🇺🇦
-- CSSBattle rank 9796 / 214634
+- CSSBattle rank 9796 / 214634 in top 5% 
