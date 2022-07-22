@@ -8,4 +8,10 @@ My name is **Igor** and this is my ✨ _special_ ✨ repository where I will mee
 - Living in Odessa, Ukraine 🇺🇦
 - CSSBattle rank 9796 / 214634 in top 5% (4.5% if to be correct)
 - HackerRank start today
-- In my life use currelnt set of languages
+- In my life use currelnt set of languages:
+-   Quick Basic
+-   Visual Basic
+-   Visual C++
+-   PHP
+-   JavaScript
+-   Python
