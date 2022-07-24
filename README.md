@@ -8,7 +8,7 @@
 - Living in Odessa, Ukraine 🇺🇦
 - CSSBattle rank 9796 / 214634 in top 5% (4.5% if to be correct)
 - HackerRank start today
-- In my life use currelnt set of languages:
+- In my life use current set of languages:
     - Quick Basic
     - Visual Basic
     - Visual C++
