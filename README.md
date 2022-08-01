@@ -14,7 +14,7 @@
     - PHP
     - JavaScript
     - Python
-- 🍕 Love Pizza <a class="suppoprt-me" href="https://www.buymeacoffee.com/igavelyuk" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&nbsp&emoji=&slug=igavel&button_colour=8d7b19&font_colour=fafa8f&font_family=Cookie&outline_colour=acff37&coffee_colour=567d71"></a>
+- 🍕 Love Pizza <a class="suppoprt-me" href="https://www.buymeacoffee.com/igavelyuk" target="_blank"><img src="https://avatars.githubusercontent.com/u/108156011?s=40&v=4" height="20px"></a>
 - Living in Odessa, Ukraine 🇺🇦
 - CSSBattle rank 9796 / 214634 in top 5% (4.5% if to be correct)
 - HackerRank start today
