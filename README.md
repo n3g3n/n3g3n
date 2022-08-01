@@ -1,5 +1,7 @@
 ### Hi there 👋
 - I've have a collection of cool project where I feel people will like it. In my profile you will find optimization scripts, websites and tutorials.
+  - https://github.com/n3g3n/gulpnuke.sh - High optimized project builder boilerplate
+  - https://github.com/n3g3n/uastudio.site - Project built using gulpnuke.sh. This project is simple landing page, optimized 100% as Google Spees Insights for websites.
 - My favorite text editor for programming is **kakoune** and **Atom**
 - My alternative favorite text editor is Atom.io
     - (Atom will be archived on December 15, 2022 🥲 )
