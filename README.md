@@ -11,7 +11,7 @@
   - **kakoune**
   - **atom** (RIP December 15, 2022 🥲)
 #### Exp
-- I'm using Gnu / Linux 🐧 from 2005, so almost 17 years.
+- I'm using Gnu 🦌 / Linux 🐧 from 2005, so almost 17 years.
 - I'm coding from 1995y almost 27y.
   - In my life use current set of languages: 
     - Quick Basic, Visual Basic, Visual C++, OpenGL
