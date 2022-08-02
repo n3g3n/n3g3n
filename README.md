@@ -1,5 +1,5 @@
 ### Hi there my name is Igor👋
-#### My nick name n3g3n what is a Palindrome and short of N3xtG3N 🧐
+#### My nick name n3g3n what is a Palindrome and short of NextGen 🧐
 - 🌈 Any good project starts from good description and good documentation (Igor Gavelyuk).
 - 🕵🏽 Our life is Tragedy in short term and Comedy in long term (refraze Chalie Chaplin)
 #### Projects
