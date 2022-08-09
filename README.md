@@ -17,7 +17,7 @@
     - Quick Basic, Visual Basic, Visual C++, OpenGL
     - PHP, JavaScript, Python, CSS, HTML, Bash
  #### Misc
-- 🍕 Love Pizza <a class="suppoprt-me" href="https://www.buymeacoffee.com/igavelyuk" target="_blank"><img src="https://avatars.githubusercontent.com/u/108156011?s=40&v=4" height="20px">But you can buy me a coffee<img src="https://avatars.githubusercontent.com/u/108156011?s=40&v=4" height="20px"></a>
+- 🍕 Love Pizza <a class="suppoprt-me" href="https://www.buymeacoffee.com/igavelyuk" target="_blank"><img src="https://avatars.githubusercontent.com/u/108156011?s=40&v=4" height="20px"> But you can buy me a coffee <img src="https://avatars.githubusercontent.com/u/108156011?s=40&v=4" height="20px"></a>
 - Living in Velikiy Dalnik village nead Odessa in Ukraine 🇺🇦
 - CSSBattle rank 9796 / 214634 in top 5% (4.5% if to be correct)
 - HackerRank
