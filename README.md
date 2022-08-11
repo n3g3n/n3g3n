@@ -23,7 +23,7 @@
 - HackerRank
 <hr>
 
- ##### My websites and services
+ ##### My websites and services.
  
   - [Igor Gavelyuk Curriculum Vitae Site](http://igcv.site)
   - [Ukraine Studio](https://uastudio.site)
