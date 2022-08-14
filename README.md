@@ -1,6 +1,6 @@
 ### Hi there my name is Igor👋
 #### My nick name n3g3n what is a Palindrome and short of NextGen 🧐
-- 🌈 Any good project starts from good description and good documentation (Igor Gavelyuk).
+- 🌈 Any good project starts from good description and good documentation (Igor Gavelyuk)
 - 🕵🏽 Our life is Tragedy in short term and Comedy in long term (refraze Chalie Chaplin)
 #### Projects
 - I've have a collection of cool project where I feel people will like it. In my profile you will find optimization scripts, websites and tutorials.
